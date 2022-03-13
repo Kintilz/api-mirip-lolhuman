@@ -1,4 +1,4 @@
-# ```Alphabot-Api```
+# ```Gebengbot-Api```
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/api-zeeoneofc/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/api-zeeoneofc?color=blue&style=flat-square"></a>
@@ -13,12 +13,12 @@
     </p>
 
 -------
-<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm zeeone 😇 </h1>
+<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm bengbotz 😇 </h1>
 <p align="center">
   <img src="https://c.top4top.io/p_2069qnvob1.jpg" /></>
 </p>
 
-- 👼 My name is Zeeone 
+- 👼 My name is Gebeng 
 - 🗣️ I am 17 years old 
 - 🔭 I am not programmer
 
